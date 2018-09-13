@@ -1,5 +1,5 @@
 _repo: The-Marching-Morons_51233
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sibley, Don
@@ -8,6 +8,9 @@ contributor:
     - Sibley, Donald
     gutenberg_agent_id: '35673'
     url: http://www.gutenberg.org/2009/agents/35673
+covers:
+- cover_type: archival
+  image_path: 51233-h/images/cover.jpg
 creator:
   author:
     agent_name: Kornbluth, C. M. (Cyril M.)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34039
     wikipedia: http://en.wikipedia.org/wiki/Cyril_M._Kornbluth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51233#The-Marching-Morons
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
